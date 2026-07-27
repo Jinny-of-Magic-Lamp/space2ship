@@ -3,7 +3,8 @@
 🚀 **Play the game**
 
 https://space2ship.io/
-  OR  
+
+**OR**  
 https://jinny-of-magic-lamp.github.io/space2ship/
 
 ---
