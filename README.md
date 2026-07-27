@@ -3,13 +3,14 @@
 🚀 **Play the game**
 
 https://space2ship.io/
+  OR  
 https://jinny-of-magic-lamp.github.io/space2ship/
 
 ---
 
 ## About
 
-A browser-based sci-fi shooter developed with HTML5 Canvas and JavaScript.
+A browser-based sci-fi shooter demo developed with HTML5 Canvas and JavaScript.
 
 ## Features
 
